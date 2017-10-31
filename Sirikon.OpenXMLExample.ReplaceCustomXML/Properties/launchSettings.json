@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "OpenXML.ReplaceCustomXMLExample": {
+    "Dev": {
       "commandName": "Project",
       "commandLineArgs": "Assets/Template.docx Out.docx"
     }
